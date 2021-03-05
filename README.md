@@ -8,7 +8,9 @@
 </p>
 
 <h2 align="center">Hello there! My name is Dennis Karungu. 👋🤓</h2>
-<p align="center">I'm a Full Stack Software Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently freelancing while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
+<p align="center">I am passionate about developing highly scalable, resilient applications. I love everything from the database, to microservices (Kubernetes, Docker, etc), to the frontend. I find amazing to think about how all pieces work together to provide a fast and pleasurable experience to end users, mainly because they have no clue how complex that "simple" app is.
+
+
 </p>
+
+
