@@ -13,4 +13,15 @@
 
 </p>
 
+<h2 align="center">Join my intereactive Community for free and let's share ideas.🤓</h2>
+<h3 align="left">Here's what you can do on the community 🤓</h3>
 
+- Join the community using Github - Sign up/Sign in.
+- Post ideas.
+- Edit Profile name and Title.
+- Like Posts.
+- Comment on Posts.
+- Change your profile picture.
+- Search Posts.
+
+Sounds Interesting? [Join Now🤓](https://projectbeam.vercel.app/) 
