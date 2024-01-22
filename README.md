@@ -13,6 +13,8 @@
 
 </p>
 
+[Repos](https://api.githubtrends.io/user/svg/dennis2018/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)
+
 <h2 align="center">Join my intereactive Community for free and let's share ideas.🤓</h2>
 <h3 align="left">Here's what you can do on the community 🤓</h3>
 
