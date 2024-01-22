@@ -12,7 +12,8 @@
 
 
 </p>
-## ![Repos](https://github.com/dennis2018/dennis2018/blob/master/images/dennis2018_repos.png)
+
+[Repos](https://github.com/dennis2018/dennis2018/blob/master/images/dennis2018_repos.png)
 
 <h2 align="center">Join my intereactive Community for free and let's share ideas.🤓</h2>
 <h3 align="left">Here's what you can do on the community 🤓</h3>
