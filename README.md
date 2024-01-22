@@ -12,7 +12,7 @@
 
 
 </p>
-[![](https://visitcount.itsvg.in/api?id=dennis2018&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+## [![](https://visitcount.itsvg.in/api?id=dennis2018&label=Profile%20Views&color=3&icon=0&pretty=false)]
 
 <h2 align="center">Join my intereactive Community for free and let's share ideas.🤓</h2>
 <h3 align="left">Here's what you can do on the community 🤓</h3>
