@@ -26,6 +26,6 @@
 - Change your profile picture.
 - Search Posts.
 
-Sounds Interesting? [Join Now🤓](https://projectbeam.vercel.app/) 
+Sounds Interesting? [Join Now🤓](https://developerdennis.com) 
 
 Developer Community @ [Developer Dennis🤓](https://developerdennis.com/) 
